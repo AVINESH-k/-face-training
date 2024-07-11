@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    /*
+}
+body{
+    background-color:blueviolet;
+}
+
+bdo{
+    font-size:10px;
+    text-transform: uppercase;
+    color:pink;
+    background-color: gray;
+    margin-right:45px;
+}
+blockquote {
+background:cyan;
+margin:50px;
+padding-right:30px;
+}
+*/
+input[type="text"]{
+    background-color:red;
+    width:60px;
+}
+input[type=checkbox]{
+    accent-color:black;
+
+
+}
+div > p{
+    color:rgb(0, 217, 255);
+    text-transform:uppercase;
+}
+#good p{
+    font-size: 16px;
+}
+#name p{
+background-color: yellow;
+}
+#hi{
+font-size:24px;
+color:blue;
+}
+#red:hover {
+    background-color:gray;
+  }
+#red{
+    width:150px;
+    height:60px;
+    border-style:double;
+    border-width:5px;
+    border-color:brown;
+    border-radius:100px;
+}

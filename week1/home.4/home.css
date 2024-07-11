@@ -1,0 +1,51 @@
+*{
+    margin:center;
+    padding:none;
+}   
+.jai{
+ background-color:#00FFFF;
+ font family:Arial;
+ font size:12px;
+ width:90%;
+ height:20%;
+ margin:0 auto;
+}
+h1{
+    font-size:2.5em;
+}
+#java{
+    color:#FF0000;
+    font-size:1.5em;
+}
+dt{
+    color:#FF0000;
+    font-size:1.7em;
+    line-height:1.5;
+}
+#ja{
+   color:#FF0F70;
+   font-weight:bold;
+   line-height:1.5;
+   font-size:1.5em;
+}
+#html{
+    color:#FF0000;
+}
+#hi{
+    font-style:italic;
+ color:#F500FF;
+ 
+}
+#good{
+    color:#FF0000;
+    font-weight:bold;
+}
+#bad{
+    font-style:italic;
+   color:#FF4500;
+   font-weight:bold;
+}
+div{
+
+}
+

@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+}
+body
+{
+    background-color: rgb(52, 240, 199);
+}
+#topbar{
+    background-color:yellow;
+    height:40px;
+    width:100%;
+    text-align: center;
+}
+#container{
+    height:60%;
+    width:95%;
+    background-color: rgb(161, 219, 75);
+    margin:0px auto;
+    
+}
+#container ul li{
+    margin-left:40px;
+    float:left;
+
+}
+#container h2{
+    text-align: center;
+    margin-bottom: 20px;
+#foot
+{
+    background-color:yellow;
+    height:30px;
+    width:100%;
+    text-align: center;
+
+}
